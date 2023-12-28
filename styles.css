@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Sora', sans-serif;;
+    padding-top: 164px;
+    display: flex;
+    justify-content: center;
+    background-color: #FAFAF9;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container {
+    width: 336px;
+    padding: 16px;
+    background-color: #FFFFFF;
+    border-radius: 20px 20px 0px 0px;
+    padding-bottom: 20px;
+}
+
+img {
+    border-radius: 20px;
+    width: 336px;
+    height: 152px;
+    margin-bottom: 16px;
+}
+
+.tag {
+    color: #883AE1;
+    background-color: #E6D6FC;
+    border-radius: 20px;
+    display: flex;
+    width: 37px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 10px;
+    font-weight: 700;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 18px;
+    padding-top: 16px;
+    padding-bottom: 6px;
+    color: #20293A;
+    margin: 0%;
+}
+
+.content {
+    font-size: 14px;
+    color: #6C727F;
+    padding-bottom: 20px;
+    font-weight: 300;
+    margin: 0px;
+    line-height: 1.5em;
+}
+
+.autor {
+    font-size: 12px;
+    color: #6C727F;
+    margin: 0%;
+    margin-top: 20px;
+}
+
+.footer {
+    width: 336px;
+    border-top: 1px solid #E5EAF0;
+    background-color: #FFFFFF;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 0px 0px 20px 20px;
+    padding-bottom: 20px;
+}
